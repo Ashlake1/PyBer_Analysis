@@ -8,7 +8,7 @@ The purpose of this project is to create a ride-share analysis by city type of r
 As the Pyber_fare_summary_df displays we can see that Rural cites have the highest fare per Ride and per Driver. That being said, driver avialbilty and total rides taken in rural cities are much lower than that of Suburban and Urban cities. Interestingly the Average Fare per Driver for Rual cities is much higher than the Average Fare per Ride. 
 Total Fares in Urban ciites is twice as high as Suburban cities and about ten times higher than Rural. What is unique is the fact that Urban cities has a greater amount of Total Drivers than there are total Rides requested whereas Rural and Suburban have less Total Drivers than Total Rides requested.
 
-![PyBer_fare_summary.png](/Resources/Pyber_fare_summary.png)
+![PyBer_fare_summary.png](/Resources/PyBer_fare_summary.png)
 Total Fare by City Type was sampled from these data ranges: ['2019-01-01':'2019-04-29']
 We can see from Fares by USD that Suburban rides seem to show the most steady average fare while Urban and Rural show greater fare fluctuation. 
 
